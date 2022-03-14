@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # payment-demo-front
 
 ## Project setup
@@ -23,6 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# payment-demo-front
->>>>>>> 4463b999b17097e5b9b475fbcfd5ac83bd2ada80
+
